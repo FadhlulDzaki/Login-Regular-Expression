@@ -1,0 +1,17 @@
+{
+  "name": "form-login",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+  }
+}
